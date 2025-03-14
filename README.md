@@ -8,10 +8,11 @@
 ---
 
 ### 🛠️ Languages & Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[<img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/>](https://git-scm.com/)
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/>](https://www.oracle.com/java/)
+[<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="40" height="40"/>](https://spring.io/)
+[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>](https://www.python.org/)
 
 ---
 
