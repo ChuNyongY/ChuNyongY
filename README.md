@@ -16,10 +16,11 @@
 [<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>](https://www.python.org/)
 [<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" height="40"/>](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 
-
 ---
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuNyongY&show_icons=true&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
 
+## My Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?ChunNyong=ChunNyong&show_icons=true&theme=dark)
+![WakaTime](https://wakatime.com/share/@ChunNyong/PROJECT_ID.svg)
