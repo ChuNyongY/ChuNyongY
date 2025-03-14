@@ -14,6 +14,8 @@
 [<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/>](https://www.mysql.com/)
 [<img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" height="40"/>](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
+
 
 ---
 
