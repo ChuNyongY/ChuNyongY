@@ -20,7 +20,3 @@
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuNyongY&show_icons=true&theme=dark)
-
-## My Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ChunNyong=ChunNyong&show_icons=true&theme=dark)
-![WakaTime](https://wakatime.com/share/@ChunNyong/PROJECT_ID.svg)
