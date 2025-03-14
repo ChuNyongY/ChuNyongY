@@ -12,6 +12,7 @@
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/>](https://www.oracle.com/java/)
 [<img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="40" height="40"/>](https://spring.io/)
 [<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>](https://www.python.org/)
 
 ---
