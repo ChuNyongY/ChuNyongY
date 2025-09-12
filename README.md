@@ -1,7 +1,5 @@
 # Hi, I'm YongE! 👋  
 ### 💻 Trainee Developer  
-🌱 I’m currently learning **Java, Python**  
-⚡ Fun fact: **I love problem-solving & coffee ☕**  
 
 ---
 
