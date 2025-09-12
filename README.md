@@ -1,7 +1,6 @@
 # Hi, I'm YongE! 👋  
 ### 💻 Trainee Developer  
 🌱 I’m currently learning **Java, Python**  
-🔭 I’m working on a **RunningMate App** 🚀  
 ⚡ Fun fact: **I love problem-solving & coffee ☕**  
 
 ---
