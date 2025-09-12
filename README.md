@@ -2,7 +2,6 @@
 ### 💻 Trainee Developer  
 🌱 I’m currently learning **Java, Python**  
 🔭 I’m working on a **RunningMate App** 🚀  
-📫 How to reach me: [chuny0n9y@gmail.com](mailto:chuny0n9y@gmail.com)  
 ⚡ Fun fact: **I love problem-solving & coffee ☕**  
 
 ---
